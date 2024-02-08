@@ -90,7 +90,7 @@ function drawText() {
   if (frameNumber < 300) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "everyday day I cannot believe how lucky I am",
+      "Everyday I cannot believe how lucky I am",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -100,7 +100,7 @@ function drawText() {
   if (frameNumber >= 300 && frameNumber < 600) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "everyday day I cannot believe how lucky I am",
+      "Everyday I cannot believe how lucky I am",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -116,7 +116,7 @@ function drawText() {
 
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
-        ["amongst trillions and trillions of stars,", "over billions of years"],
+        ["To wake up Late xd and have you as the first thought on my mind"],
         canvas.width / 2,
         canvas.height / 2,
         fontSize,
@@ -124,7 +124,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "amongst trillions and trillions of stars, over billions of years",
+        "To wake up Late xd and have you as the first thought on my mind",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -137,7 +137,7 @@ function drawText() {
 
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
-        ["amongst trillions and trillions of stars,", "over billions of years"],
+        ["To wake up Late xd and have you as the first thought on my mind"],
         canvas.width / 2,
         canvas.height / 2,
         fontSize,
@@ -145,7 +145,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "amongst trillions and trillions of stars, over billions of years",
+        "To wake up Late xd and have you as the first thought on my mind",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -182,7 +182,7 @@ function drawText() {
   if (frameNumber > 1800 && frameNumber < 2100) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "is so incredibly, unfathomably unlikely",
+      "is so incredibly, WAOOOO",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -191,7 +191,7 @@ function drawText() {
   if (frameNumber >= 2100 && frameNumber < 2400) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "is so incredibly, unfathomably unlikely",
+      "is so incredibly, WAOOOO",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -306,7 +306,7 @@ function drawText() {
   if (frameNumber >= 3600 && frameNumber < 99999) {
     context.fillStyle = `rgba(255, 255, 255, ${thirdOpacity})`;
     context.fillText(
-      "Will You Be Mine?",
+      "Will You Be Mine Ms Reva Acharya?",
       canvas.width / 2,
       canvas.height / 2 + 120
     );
